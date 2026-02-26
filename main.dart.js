@@ -118269,7 +118269,7 @@ r.toString
 return s.ati(r,this.b)},
 $S:0}
 A.aKs.prototype={
-$0(){A.b1u(A.oS("https://meteo.arso.gov.si/met/sl/agromet/anketa/",0,null))},
+$0(){A.b1u(A.oS("https://forms.gle/ZSouf43J2BydhNh18",0,null))},
 $S:0}
 A.aKc.prototype={
 $0(){var s=this.a
