@@ -1,11 +1,11 @@
 {
-    "name": "worktimeplus",
-    "short_name": "worktimeplus",
+    "name": "WorkTime+",
+    "short_name": "WorkTime+",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0B1120",
+    "theme_color": "#22C55E",
+    "description": "Track work hours, manage budgets, and boost productivity.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
